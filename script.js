@@ -5,7 +5,7 @@ const stages = [
   {
     heading: "Onn vazhakk maatuo?? 🥺",
     subheading: "Enik miss cheyandd.... 😭",
-    gif: "https://media.tenor.com/m/t51Z8Z4D9H4AAAAC/quby-chan-crying.gif"
+    gif: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tqdG9oMmQ2dmthZXk0ZGJpbGp5aXhybjc5OWh4M3VtaXo0cHp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H6cmWzp6LGFvqjidB7/giphy.gif"
   },
   {
     heading: "Sweett.. Devika alee?? 💖",
