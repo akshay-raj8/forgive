@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Onn vazhakk maatuo?? 🥺</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&family=Caveat:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <!-- Background Music -->
+    <audio id="bg-music" src="music.mp3" loop preload="none"></audio>
+    <button class="music-toggle" type="button" aria-pressed="false">Play music</button>
+    <div class="music-pointer" aria-hidden="true">
+      <b>&#8593;</b>
+    </div>
+
+    <!-- Floating Background Hearts -->
+    <div class="hearts-container" aria-hidden="true">
+      <span class="heart heart-1">💖</span>
+      <span class="heart heart-2">🌸</span>
+      <span class="heart heart-3">💝</span>
+      <span class="heart heart-4">💗</span>
+      <span class="heart heart-5">✨</span>
+      <span class="heart heart-6">💕</span>
+    </div>
+
+    <!-- Canvas for Confetti -->
+    <canvas id="confetti-canvas"></canvas>
+
+    <main class="container">
+      <div class="card" id="main-card">
+        <!-- Cute Sticker Gif -->
+        <div class="gif-container">
+          <img id="gif-display" src="https://media.tenor.com/m/t51Z8Z4D9H4AAAAC/quby-chan-crying.gif" alt="Cute animated character pleading" referrerpolicy="no-referrer">
+        </div>
+        
+        <!-- Text Content -->
+        <h1 id="heading-text">Onn vazhakk maatuo?? 🥺</h1>
+        <p id="subheading-text">Enik miss cheyandd.... 😭</p>
+        
+        <!-- Action Buttons -->
+        <div class="button-group">
+          <button id="yes-btn" type="button">Yes</button>
+          <button id="no-btn" type="button">No</button>
+        </div>
+      </div>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
