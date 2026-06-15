@@ -10,24 +10,24 @@ const stages = [
   {
     heading: "Sweett.. Devika alee?? 💖",
     subheading: "Ethre divasayi vazhakk 🥺",
-    gif: "https://media.tenor.com/m/Dgn4rQ7l2LgAAAAC/quby-chan-crying.gif"
+    gif: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBtZHEzYzFwdjh1d2p0bm80cW8wb2FjNmZ6cXd5N2Zib2RvZ3gydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J00aGaP1oQTlZWSD2Y/giphy.gif"
   },
   {
     heading: "Enim deshyam maarilee 💔",
     subheading: "Enik nalle hurt aavandd... 😢",
-    gif: "https://media.tenor.com/m/u8Mv_C_t0LIAAAAC/quby-mad.gif"
+    gif: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI1YThvaHN2bXM1cmJtaGs1ZTB1d2hybXl1cTMycGNpZW1vbWJ5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a9xhxAxaqOfQs/giphy.gif"
   },
   {
     heading: "Vazhakkk maarinn paraa.. 😏",
     subheading: "Demand cheyane alaa...",
-    gif: "https://media.tenor.com/m/07J9bF5Z_0AAAAAC/quby-sticker.gif"
+    gif: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU5aDg5Z3YzcGI0aTMxeHo0eTF2czE5dGNuOG51czJpNmt4OXgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jLKvwWHIXUS4/giphy.gif"
   }
 ];
 
 const successContent = {
   heading: "Yeyeye! 🎉",
   subheading: "Enik ariyaaa sweett Devikaa aanen.. 💖",
-  gif: "https://media.tenor.com/m/gOvaTCoK554AAAAC/quby-cute.gif"
+  gif: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXo2MTFwaHJ3d3oza3R0NWZ3YmxmNXB5Nnhyd2Jjc2FoOTIwOWphNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72Fis1cjDIyky9yM/giphy.gif"
 };
 
 // --- DOM ELEMENTS ---
