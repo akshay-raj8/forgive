@@ -26,7 +26,7 @@ const stages = [
 
 const successContent = {
   heading: "Yeyeye! 🎉",
-  subheading: "Enik ariyaaa sweett sweett Devikaa aanenn.. 💖",
+  subheading: "Enik ariyaaa sweett Maggieee aanenn.. 💖",
   gif: "https://media.tenor.com/m/gOvaTCoK554AAAAC/quby-cute.gif"
 };
 
